@@ -1,0 +1,1 @@
+You want download haarcascade_frontalface_default.xml and shape_predictor_68_face_landmarks.dat
